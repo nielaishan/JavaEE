@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/com/N/dao/impl/PersonDaoImpl.java=UTF-8
+encoding//src/com/N/servlet/PersonServlet.java=UTF-8
+encoding//src/com/util/db/DBUtils.java=UTF-8
+encoding//src/com/util/db/JdbcTemplete.java=UTF-8
+encoding/<project>=UTF-8
